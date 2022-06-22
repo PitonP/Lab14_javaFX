@@ -17,7 +17,7 @@ import javafx.scene.text.FontWeight;
 import javafx.event.ActionEvent;
 import java.io.IOException;
 
-// Первое изменение
+// Первое изменение кода
 public class HelloApplication extends Application {
     private Text txt_1;
     CheckBox ribs, vobla, grape;
